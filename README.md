@@ -1,4 +1,4 @@
-# WORKING: vnc-google-shell CHROME DESKTOP
+# ✅ Working: vnc-google-shell CHROME DESKTOP
 
   1. https://console.cloud.google.com/home/dashboard
   
@@ -22,22 +22,9 @@
 
   9. https://remotedesktop.google.com/access
 
-
-
-
-
-
-
-
- github
-
-https://github.com/alexdanca341341/vnc-google-shell
-
-
 console restart / reset:
 
 1. python vnc.py
 2.https://remotedesktop.google.com/headless 3. click begin , click before , click authorize
 4. copy "Debian Linux" and paste on terminal/shell google console
 5. https://remotedesktop.google.com/access
-
